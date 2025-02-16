@@ -1,4 +1,4 @@
-# I-Budget
+## I-Budget
 
 <p align="center">
   <img src="path/to/your-logo.png" alt="I-Budget Logo" width="150"/>
