@@ -28,9 +28,7 @@ In today's fast-paced financial landscape, many Tunisians struggle with managing
 </p>
 
 ### Backend
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
-</p>
+<p> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot" width="40" height="40"/> </p>
 
 ### Database
 <p>
