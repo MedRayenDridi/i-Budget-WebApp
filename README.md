@@ -42,34 +42,9 @@ In today's fast-paced financial landscape, many Tunisians struggle with managing
   <img src="path/to/savings-animation.png" alt="Savings Goal Animation" width="600"/>
 </p>
 
-## Installation & Setup
-### Prerequisites
-Ensure you have the following installed:
-- **Node.js**
-- **Angular CLI**
-- **MySQL Server**
 
 ### Backend Setup
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-repo/i-budget.git
-   cd i-budget/backend
-   ```
-2. Install dependencies:
-   ```bash
-   npm install
-   ```
-3. Configure the MySQL database in `.env` file:
-   ```plaintext
-   DB_HOST=localhost
-   DB_USER=root
-   DB_PASSWORD=yourpassword
-   DB_NAME=ibudget
-   ```
-4. Run the backend server:
-   ```bash
-   npm start
-   ```
+
 
 ### Frontend Setup
 
