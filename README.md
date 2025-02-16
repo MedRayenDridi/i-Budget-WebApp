@@ -72,29 +72,6 @@ Ensure you have the following installed:
    ```
 
 ### Frontend Setup
-1. Navigate to the frontend directory:
-   ```bash
-   cd ../frontend
-   ```
-2. Install dependencies:
-   ```bash
-   npm install
-   ```
-3. Run the frontend application:
-   ```bash
-   ng serve
-   ```
-4. Open your browser and navigate to `http://localhost:4200`.
-
-## Contribution
-We welcome contributions! To contribute:
-1. Fork the repository.
-2. Create a new branch.
-3. Make your changes and commit them.
-4. Push to your fork and submit a pull request.
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 _Developed with ❤️ for smarter financial management._
