@@ -1,7 +1,7 @@
 # I-Budget
 
 <p align="center">
-  <img src="path/to/your-logo.png" alt="I-Budget Logo" width="150"/>
+  <img src="Capture_d_écran_2025-02-16_165806-removebg-preview.png" alt="I-Budget Logo" width="150"/>
 </p>
 
 ## Problem Statement
